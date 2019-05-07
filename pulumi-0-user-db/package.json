@@ -1,0 +1,12 @@
+{
+    "name": "aws-typescript",
+    "devDependencies": {
+        "@types/lodash": "^4.14.123",
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@pulumi/aws": "latest",
+        "@pulumi/pulumi": "latest",
+        "lodash": "^4.17.11"
+    }
+}
